@@ -1,0 +1,15 @@
+#colorchanger {
+    padding: 10px;
+    cursor: pointer;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-color: black;
+}
